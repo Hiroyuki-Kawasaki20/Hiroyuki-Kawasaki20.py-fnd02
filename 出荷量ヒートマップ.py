@@ -23,7 +23,7 @@ heatmap.set_facecolor("lightgray")
 
 #タイトル、ラベル設定
 plt.title("納入先別  仕事量ヒートマップ")
-plt.xlabel("オーダーNo")
+plt.xlabel("便No")
 plt.ylabel("納入先")
 
 #グラフ表示
